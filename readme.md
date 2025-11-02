@@ -52,7 +52,7 @@ The trained model is evaluated on a validation set, and the best-performing mode
 
 ## Streamlit App
 
-A Streamlit application has been developed to facilitate the deployment of the model and enable predictions on new MRI images. The app can be accessed [here]
+A Streamlit application has been developed to facilitate the deployment of the model and enable predictions on new MRI images. It's just a matter of time InshaaAllah, and I can handle the deployment properly instead of it being locked, so anyone can run it on their own machine.
 
 ### Functionality:
 
