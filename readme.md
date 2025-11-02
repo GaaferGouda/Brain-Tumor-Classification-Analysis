@@ -67,14 +67,6 @@ Run the Streamlit app:
 ```sh
 streamlit run app.py
 ```
-## Project Demo
-
-
-
-[![Watch the video](thumbnail.png)](https://youtu.be/your_video_link)
-
-
-
 
 ## Usage
 1. **Clone the repository**:
